@@ -1,34 +1,35 @@
-# Praktikum PBO E2
+# OOP Lab E2
 
 \
-Repositori ini berisi kumpulan folder dan file dari praktikum **Pemrograman Berorientasi Objek (PBO) - Lab E2**.
+This repository contains a collection of folders and files from the **Object-Oriented Programming (OOP) - Lab E2**.
 
-## 📌 Materi Praktikum
+## 📌 Practicum Materials
 
-Setiap folder per pertemuan berisi:
+Each session folder contains:
 
-- **README.md** → Penjelasan konsep utama dan contoh kode.
-- **File .java** → Implementasi kode dari konsep yang dipelajari.
+- **README.md** → Explanation of key concepts and example code.
+- **.java files** → Code implementations of the concepts learned.
 
-## 🛠️ Cara Menggunakan Repository
+## 🛠️ How to Use This Repository
 
-1. Clone repository ini:
+1. Clone this repository:
    ```bash
    git clone https://github.com/bruhismyname/Praktikum-PBO-E2.git
    ```
-2. Buka folder pertemuan yang ingin dipelajari.
-3. Jalankan kode di Java IDE favoritmu (IntelliJ, NetBeans, VS Code, dll.).
+2. Open the session folder you want to study.
+3. Run the code in your favorite Java IDE (IntelliJ, NetBeans, VS Code, etc.).
 
-## 🤝 Kontribusi
+## 🤝 Contribution
 
-Jika ingin menambahkan materi atau perbaikan, silakan fork repo ini dan buat pull request! 🚀
+If you want to add materials or make improvements, feel free to fork this repo and create a pull request! 🚀
 
-## 📞 Kontak
+## 📞 Contact
 
-Jika ada pertanyaan atau saran, silakan hubungi saya melalui [GitHub Issues](https://github.com/username/Praktikum-PBO-E2/issues).
+For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/username/Praktikum-PBO-E2/issues).
 
-✨ **Selamat Belajar PBO!** 🚀
 ---
+
+✨ Happy Learning OOP! 🚀
 
 © 2025 [Rajwaa Muflihul Aufaa]. All Rights Reserved.  
 Distributed under the MIT License. See `LICENSE` for more information.  
