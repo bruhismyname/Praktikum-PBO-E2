@@ -27,10 +27,8 @@ Jika ingin menambahkan materi atau perbaikan, silakan fork repo ini dan buat pul
 
 Jika ada pertanyaan atau saran, silakan hubungi saya melalui [GitHub Issues](https://github.com/username/Praktikum-PBO-E2/issues).
 
+✨ **Selamat Belajar PBO!** 🚀
 ---
 
 © 2025 [Rajwaa Muflihul Aufaa]. All Rights Reserved.  
 Distributed under the MIT License. See `LICENSE` for more information.  
-
-
-✨ **Selamat Belajar PBO!** 🚀
