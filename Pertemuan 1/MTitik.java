@@ -2,6 +2,7 @@
  *  Deskripsi   : berisi atribut dan method dalam class Titik
  *  Pembuat     : Rajwaa Muflihul Aufaa
  *  NIM         : 24060123140189
+ *  Tanggal     : 21 Februari 2025
  */
 
 public class MTitik {
