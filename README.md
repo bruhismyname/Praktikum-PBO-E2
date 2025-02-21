@@ -27,9 +27,13 @@ If you want to add materials or make improvements, feel free to fork this repo a
 
 For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/username/Praktikum-PBO-E2/issues).
 
+## 🧑🏻‍💻 Identitas
+
+- **Name:** Rajwaa Muflihul Aufaa  
+- **NIM:** 24060123140189
 ---
 
 ✨ Happy Learning OOP! 🚀
-
+  
 © 2025 [Rajwaa Muflihul Aufaa]. All Rights Reserved.  
 Distributed under the MIT License. See `LICENSE` for more information.  
