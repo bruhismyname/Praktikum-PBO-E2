@@ -1,3 +1,10 @@
+/*  Nama File   : AngkaSial.java
+ *  Deskripsi   : Program penggunaan exception buatan sendiri , pengenalan klausa 'throw' dan 'throws'
+ *  Pembuat     : Rajwaa Muflihul Aufaa
+ *  NIM         : 24060123140189
+ *  Tanggal     : 6 Maret 2025
+ */
+
 public class AngkaSial{
     public void cobaAngka(int angka) throws AngkaSialException{
         if (angka == 13) {
