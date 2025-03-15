@@ -7,7 +7,13 @@
 
 public class BangunDatarMain {
     public static void main(String[] args) {
-        System.out.println("\n/******************* PERSEGI *******************/");
+        System.out.println("*****************************************************");
+        System.out.println("*   Praktikum Pemrograman Berorientasi Objek E2     *");
+        System.out.println("*          Oleh: Rajwaa Muflihul Aufaa              *");
+        System.out.println("*      INITIALIZATION PROGRAM BANGUN DATAR          *");
+        System.out.println("*****************************************************\n");
+        
+        System.out.println("/******************* PERSEGI *******************/");
         Persegi persegi = new Persegi(5, "Merah", "Putih");
         System.out.println("Luas Persegi: " + persegi.getLuas());
         System.out.println("Keliling Persegi: " + persegi.getKeliling());
@@ -24,5 +30,7 @@ public class BangunDatarMain {
 
         System.out.println("\n/******************* JUMLAH BANGUN DATAR *******************/");
         BangunDatar.printCounterBangunDatar();
+        
+        System.out.println("\n/******************* END PROGRAM BANGUN DATAR *******************/");
     }
 }
