@@ -84,7 +84,7 @@ public class Overloading {
 // - Konstruktor Titik(double, double) dan Titik() di Praktikum 1 & Praktikum 2
 // - Konstruktor Garis(Titik, Titik) dan Garis() di Praktikum 1 & Praktikum 2
 // - Konstruktor Persegi(...) dan Lingkaran(...) di Praktium 4 & Praktikum 5
-// - Method hitungTotalBiayaKebersihan(...) di Main.java Responsi UTS
+// - Method hitungTotalBiayaKebersihan(...) di App.java Responsi UTS
 
 /*
  * Penjelasan:
